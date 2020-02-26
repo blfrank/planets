@@ -4,4 +4,8 @@ I am thinking of going but it takes to long
 
 Mars is too far
 
+<<<<<<< HEAD
 Hello
+=======
+this is not true! Mars is close!
+>>>>>>> 01d71d78467c5cb5fdcca8b642412ec2f7e0e9d0
